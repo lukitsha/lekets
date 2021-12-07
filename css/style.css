@@ -29,31 +29,19 @@ nav{
 	width: 100%;
 }
 
-.logoLeketsAbajo{
-	margin-left: 65px;
-	
-}
 
 .imagenUnoIndex{
-width: 92%;
+width: 96%;
 height: auto;
-margin-left: 70px;
-margin-bottom: 130px;
+margin-left: 2%;
+margin-bottom: 80px;
 }
 .imagenDosIndex{
-	width: 92%;
+	width: 100%;
 	height: auto;
-	
+	margin-left: 2%;
+	margin-bottom: 80px;
 	}
-
-section.nosotrosUno{
-	height: 400px;
-	width: auto;
-}
-section.nosotrosDos{
-	height: 400px;
-	width: auto;
-}
 
 section.textoInferiorIndex{
 	color: #363842;
@@ -63,6 +51,7 @@ section.textoInferiorIndex{
 	font-family: 'Teko', sans-serif;
 	display: flex;
 	flex-direction: row;
+	text-align: justify;
 
 }
 
@@ -81,38 +70,85 @@ section.inferiorIndex{
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Varela Round', sans-serif;
+	margin-bottom: 80px;
 }
 /* css para nosotros */
 
 h1.tituloNosotros{
 	color: #363842;
-	font-size: 40px;
+	font-size: 80px;
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Teko', sans-serif;
+	margin-left: 45%;
+	margin-top: 35px;
+}
+h2.subtituloNosotros{
+	color: #1e1e20;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	margin-left: 25px;
 }
 
 h2.textoNosotros{
-	color: #6b6b70;
+	color: #000000;
 	font-size: 22px;
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Varela Round', sans-serif;
+	margin-left: 2%;
+	margin-right: 2%;
+	text-align: justify;
+
+}
+.imagenNosotrosUno{
+	height: 600px;
+	width: 96%;
+	margin-left: 30px;
+	margin-top: 30px;
+	
 }
 p.nosotrosUno{
-	color: #6b6b70;
-	font-size: 20px;
+	color: #000000;
+	font-size: 15px;
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Varela Round', sans-serif;
+	margin-left: 30px;
+	margin-bottom: 35px;
+}
+
+.textoNosotrosMedio{
+	color: #000000;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+	margin-left: 31px;
+	margin-right: 25px;
+	text-align: justify;
+	margin-bottom: 35px;
+}
+
+.imagenNosotrosDos{
+	height: 500px;
+	width: 98%;
+	margin-left: 18px;
+	margin-bottom: 80px;
+	margin-right: 18px;
+	
 }
 p.nosotrosDos{
-	color: #6b6b70;
-	font-size: 20px;
+	color: #000000;
+	font-size: 15px;
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Varela Round', sans-serif;
+	margin-left: 16px;
 }
+
 /* css para productos */
 
 h1.productosTexto{
@@ -142,6 +178,7 @@ section.tituloFaq h1{
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Teko', sans-serif;
+	mar
 }
 /* css para contacto */
 
@@ -167,4 +204,10 @@ section.contactosTexto p{
 	font-style: normal;
 	font-weight: 500;
 	font-family: 'Varela Round', sans-serif;
+}
+
+.logoLeketsAbajo{
+	margin-left: 15px;
+	margin-bottom: 50px;
+	
 }
