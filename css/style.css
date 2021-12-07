@@ -1,0 +1,170 @@
+
+@media (max-width: 576px) and (min-width: 1px){
+	.backgroundColor{
+		background-color: green;
+	}
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+	.backgroundColor{
+		background-color: blue;
+	}
+}
+@media (max-width: 992px) and (min-width: 769px){
+	.backgroundColor{
+		background-color: red;
+	}
+}
+@media (max-width: 1200px) and (min-width: 993px){
+	.backgroundColor{
+		background-color:  purple;
+	}
+}
+@media (max-width: 3000px) and (min-width: 1201px){
+	.backgroundColor{
+		background-color:  slategrey;
+	}
+}
+nav{
+	width: 100%;
+}
+
+.logoLeketsAbajo{
+	margin-left: 65px;
+	
+}
+
+.imagenUnoIndex{
+width: 92%;
+height: auto;
+margin-left: 70px;
+margin-bottom: 130px;
+}
+.imagenDosIndex{
+	width: 92%;
+	height: auto;
+	
+	}
+
+section.nosotrosUno{
+	height: 400px;
+	width: auto;
+}
+section.nosotrosDos{
+	height: 400px;
+	width: auto;
+}
+
+section.textoInferiorIndex{
+	color: #363842;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	display: flex;
+	flex-direction: row;
+
+}
+
+section.tituloIndex{
+	font-size: 100px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+section.inferiorIndex{
+	color: #ba1e1e;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+/* css para nosotros */
+
+h1.tituloNosotros{
+	color: #363842;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+}
+
+h2.textoNosotros{
+	color: #6b6b70;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+p.nosotrosUno{
+	color: #6b6b70;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+p.nosotrosDos{
+	color: #6b6b70;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+/* css para productos */
+
+h1.productosTexto{
+	color: #363842;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+section.loremProductos{
+	color: #363842;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+/* css para faq */
+
+section.tituloFaq h1{
+	color: #363842;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+}
+/* css para contacto */
+
+h1.tituloContacto{
+	color: #363842;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+}
+
+section.contactos.Texto{
+	color: #6b6b70;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
+
+section.contactosTexto p{
+	color: #ff0000;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+}
