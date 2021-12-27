@@ -1,30 +1,4 @@
 
-@media (max-width: 576px) and (min-width: 1px){
-	.backgroundColor{
-		background-color: green;
-	}
-}
-
-@media (max-width: 768px) and (min-width: 577px){
-	.backgroundColor{
-		background-color: blue;
-	}
-}
-@media (max-width: 992px) and (min-width: 769px){
-	.backgroundColor{
-		background-color: red;
-	}
-}
-@media (max-width: 1200px) and (min-width: 993px){
-	.backgroundColor{
-		background-color:  purple;
-	}
-}
-@media (max-width: 3000px) and (min-width: 1201px){
-	.backgroundColor{
-		background-color:  slategrey;
-	}
-}
 nav{
 	width: 100%;
 }
