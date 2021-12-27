@@ -1,8 +1,12 @@
-
+.backgroundColor{
+	background-color: slategrey;
+}
 nav{
 	width: 100%;
 }
-
+.a{
+	color: #ffffff;
+}
 section.tituloIndex{
 	font-size: 100px;
 	font-style: normal;
