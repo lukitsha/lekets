@@ -141,7 +141,53 @@ section.loremProductos{
 	flex-direction: row;
 	justify-content: space-between;
 }
+.imgCien{
+	width: 100%;
+	margin-left: 10%;
+	margin-right: 3%;
+}
+.textoSuperiorProductos{
+	text-align: justify;
+	margin-left: 10%;
+	margin-right: 3%;
+}
 
+.tituloDestacados{
+	color: #363842;
+	font-size: 80px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	margin-top: 7%;
+	margin-bottom: 5%;
+	margin-left: 3.6%;
+}
+
+.tituloCatalogo{
+	color: #363842;
+	font-size: 80px;
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Teko', sans-serif;
+	margin-top: 7%;
+	margin-left: 5%;
+}
+
+.tituloPlacas{
+	font-style: normal;
+	font-weight: 500;
+	font-family: 'Varela Round', sans-serif;
+	margin-bottom: 3%;
+}
+
+.carouselMargins{
+	margin-top: 7%;
+	margin-bottom: 5%;
+}
+
+.productosMargin{
+	margin-bottom: 7%;
+}
 
 
 
